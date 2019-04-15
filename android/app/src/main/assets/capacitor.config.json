@@ -1,0 +1,7 @@
+{
+  "appId": "com.coderduo.bill4",
+  "appName": "ionic-angular",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/home/enoah/Downloads/android-studio-ide-181.5056338-linux/android-studio/bin/studio.sh"
+}
